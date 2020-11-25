@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18fb2e53-0470-42c3-a80a-03a48cef813c" name="Default Changelist" comment="" />
+    <list default="true" id="18fb2e53-0470-42c3-a80a-03a48cef813c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +64,10 @@
       <workItem from="1604364512578" duration="2243000" />
       <workItem from="1605033640408" duration="6947000" />
       <workItem from="1605041236375" duration="1728000" />
-      <workItem from="1605043108449" duration="468000" />
+      <workItem from="1605043108449" duration="1633000" />
+      <workItem from="1605224677049" duration="168000" />
+      <workItem from="1606255764051" duration="10435000" />
+      <workItem from="1606266771850" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="nothing">
       <created>1604364647557</created>
@@ -96,7 +104,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605043318741</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nothing">
+      <created>1605043743258</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605043743258</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nothing">
+      <created>1605044667094</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605044667094</updated>
+    </task>
+    <task id="LOCAL-00008" summary="nothing">
+      <created>1605044713523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605044713523</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,22 +144,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604351492792" />
-    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1605043314884">
+    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1605044711477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605043314884" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602978824357">
+    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605044711477" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606267088007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602978824357" />
-    <state x="561" y="262" key="Github.ShareDialog" timestamp="1605041879340">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606267088007" />
+    <state x="561" y="262" key="Github.ShareDialog" timestamp="1606267101897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1605041879340" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605042849840">
+    <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606267101897" />
+    <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1605044986439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605042849840" />
+    <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1605044986439" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606266948732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606266948732" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1603053304203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
